@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+@font-face {
+  font-family: 'PlayFairDisplay';
+  src: local('PlayFairDisplay'), url('fonts/PlayfairDisplay-Medium.ttf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Poppins';
+  src: local('Poppins'), url('fonts/Poppins-Medium.ttf') format('opentype');
+}
